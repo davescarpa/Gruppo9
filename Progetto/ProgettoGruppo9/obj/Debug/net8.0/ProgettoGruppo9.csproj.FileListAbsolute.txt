@@ -1,0 +1,15 @@
+C:\git\esempiomande\gruppo9\ProgettoGruppo9\bin\Debug\net8.0\ProgettoGruppo9.exe
+C:\git\esempiomande\gruppo9\ProgettoGruppo9\bin\Debug\net8.0\ProgettoGruppo9.deps.json
+C:\git\esempiomande\gruppo9\ProgettoGruppo9\bin\Debug\net8.0\ProgettoGruppo9.runtimeconfig.json
+C:\git\esempiomande\gruppo9\ProgettoGruppo9\bin\Debug\net8.0\ProgettoGruppo9.dll
+C:\git\esempiomande\gruppo9\ProgettoGruppo9\bin\Debug\net8.0\ProgettoGruppo9.pdb
+C:\git\esempiomande\gruppo9\ProgettoGruppo9\obj\Debug\net8.0\ProgettoGruppo9.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\esempiomande\gruppo9\ProgettoGruppo9\obj\Debug\net8.0\ProgettoGruppo9.AssemblyInfoInputs.cache
+C:\git\esempiomande\gruppo9\ProgettoGruppo9\obj\Debug\net8.0\ProgettoGruppo9.AssemblyInfo.cs
+C:\git\esempiomande\gruppo9\ProgettoGruppo9\obj\Debug\net8.0\ProgettoGruppo9.csproj.CoreCompileInputs.cache
+C:\git\esempiomande\gruppo9\ProgettoGruppo9\obj\Debug\net8.0\ProgettoGruppo9.sourcelink.json
+C:\git\esempiomande\gruppo9\ProgettoGruppo9\obj\Debug\net8.0\ProgettoGruppo9.dll
+C:\git\esempiomande\gruppo9\ProgettoGruppo9\obj\Debug\net8.0\refint\ProgettoGruppo9.dll
+C:\git\esempiomande\gruppo9\ProgettoGruppo9\obj\Debug\net8.0\ProgettoGruppo9.pdb
+C:\git\esempiomande\gruppo9\ProgettoGruppo9\obj\Debug\net8.0\ProgettoGruppo9.genruntimeconfig.cache
+C:\git\esempiomande\gruppo9\ProgettoGruppo9\obj\Debug\net8.0\ref\ProgettoGruppo9.dll
